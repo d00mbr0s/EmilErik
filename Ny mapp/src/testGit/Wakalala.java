@@ -1,8 +1,10 @@
 package testGit;
 
+import javax.swing.JOptionPane;
+
 public class Wakalala {
 	public static void main(String[] args) {
-		System.out.println("då");
+		JOptionPane.showMessageDialog(null, "EYO");
 		
 	}
 
